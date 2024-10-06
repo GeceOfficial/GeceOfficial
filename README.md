@@ -13,7 +13,7 @@ Discord botu geliştirme tutkunu bir yazılımcıyım. İzmir'de yaşıyorum ve 
 
 ## İletişim
 - **Discord:** geceofficiall
-- **Discord:** [Sunucum]([https://twitter.com/gece](https://discord.gg/geceofficial)
+- **Discord:** [Sunucum](https://discord.gg/geceofficial)
 
 ## Katkılar
 Yardımcı olabileceğim projelerde katkıda bulunmaktan mutluluk duyarım. Herhangi bir sorunuz varsa benimle iletişime geçmekten çekinmeyin!
