@@ -81,5 +81,5 @@ Yardımcı olabileceğim projelerde katkıda bulunmaktan mutluluk duyarım. Herh
 ## 📚 Eğitim
 
 - **Bilgisayar Mühendisliği** (2020 - Devam Ediyor)
-  - İzmir Yüksek Teknoloji Enstitüsü
+- İzmir Yüksek Teknoloji Enstitüsü
 
