@@ -1,16 +1,20 @@
-## Hi there 👋
+# Merhaba, ben Gece! 👋
 
-<!--
-**GeceOfficial/GeceOfficial** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Discord botu geliştirme tutkunu bir yazılımcıyım. İzmir'de yaşıyorum ve 23 yaşındayım.
 
-Here are some ideas to get you started:
+## Hakkımda
+- **Yaş:** 23
+- **Konum:** İzmir, Türkiye
+- **Hobiler:** Kodlama, oyun oynama, yeni teknolojiler keşfetme
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Projelerim
+- **Discord Botu:** Kullanıcı kaydı, rol yönetimi ve nickname ayarlama gibi özellikler içeren bir Discord botu üzerinde çalışıyorum.
+- **Açık Kaynak Projeler:** Github'da açık kaynak projeler paylaşarak topluluğa katkıda bulunmayı seviyorum.
+
+## İletişim
+- **Discord:** geceofficiall
+- **Discord:** [Sunucum]([https://twitter.com/gece](https://discord.gg/geceofficial))
+
+## Katkılar
+Yardımcı olabileceğim projelerde katkıda bulunmaktan mutluluk duyarım. Herhangi bir sorunuz varsa benimle iletişime geçmekten çekinmeyin!
+
